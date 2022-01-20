@@ -9,16 +9,3 @@ body {
   font-size: 16px;
   line-height: 24px;
 }
-
-nav .navbar-brand {
-  color: #6070ff;
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 20px;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
